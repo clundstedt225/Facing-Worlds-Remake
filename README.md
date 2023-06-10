@@ -19,6 +19,7 @@ Trello Board: https://trello.com/b/JomGTaFe/facing-worlds-remake
 - Programmed using C#
 
 ##	:stopwatch: Things I would change with more time
+- Add settings for bot count and match parameters
 - Model and texture AI enemies
 - Extend AI behaviour trees
 - Add more weapons
