@@ -1,7 +1,7 @@
 # Facing-Worlds-Remake
 A remake of the facing worlds map from unreal tournament 99 in the Unity game engine
 
-This project was a creative exercise to learn more about enemy AI and behaviour trees. I chose to recreate one of my favorite FPS maps and emualate the team deathmatch game mode. For the design I went for a retro 3D game asthetic.
+This project was a creative exercise to learn more about enemy AI and behaviour trees. I chose to recreate one of my favorite FPS maps and emualate the team deathmatch game mode. For the design I went for a retro 3D game inspired asthetic.
 
 ## 	:world_map: Project Navigation
 
